@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      >
+
+
+        <item
+            android:id="@+id/ic_android"
+            android:icon="@drawable/ic_android"
+            android:title="Android"
+            />
+        <item
+            android:id="@+id/novidades"
+            android:icon="@drawable/ic_library_books"
+            android:title="Novidades"
+            />
+        <item
+            android:id="@+id/proximos"
+            android:icon="@drawable/map_marker"
+            android:title="Próximos"
+            />
+        <item
+            android:id="@+id/conta"
+            android:icon="@drawable/account"
+            android:title="Minha Conta"
+            />
+
+
+
+
+</menu>

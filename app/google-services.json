@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519079789188",
+    "firebase_url": "https://projetobottomrecicle-master.firebaseio.com",
+    "project_id": "projetobottomrecicle-master",
+    "storage_bucket": "projetobottomrecicle-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519079789188:android:aad550694c958203",
+        "android_client_info": {
+          "package_name": "com.example.user.projetobottomrecicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519079789188-j3p3c5iv9mdidckhiic6tcaht6vks9rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.projetobottomrecicle",
+            "certificate_hash": "5dbcb793e9639ce7394ef2142be9effd0a7ecdfe"
+          }
+        },
+        {
+          "client_id": "519079789188-7iie23c80kmgafo5j5rgh6lsd24qp5b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwFFjBUUmH6_SF_POsd4vGpUiTFyuI73o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519079789188-7iie23c80kmgafo5j5rgh6lsd24qp5b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
